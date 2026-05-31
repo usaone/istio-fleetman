@@ -10,3 +10,6 @@ VirtualPairProgrammers: https://virtualpairprogrammers.com/training-courses/Isti
 
 Aim: make Istio understandable - it's not that hard. I don't mention TCP/IP stack levels once. Or the CNCF.
 
+
+
+Additionally, I want to try the example deployment of the Bookinfo Application using the guide provided here: https://istio.io/latest/docs/examples/bookinfo/
